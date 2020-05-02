@@ -7,3 +7,4 @@
 # Priority
 # Due Date
 # How long it takes
+# Time allocated on calendar
